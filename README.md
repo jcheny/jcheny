@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**jcheny/jcheny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p>
+  <br><br>
+  <samp>
+- 🔭 I’m currently working on java <br> 
+- 🌱 I’m currently learning blockchain and java <br> 
+- 📫 How to reach me: jchen_px@163.com <br> 
+- 😄 Pronouns: lixian
+    <img src="http://qiniu.whoiszxl.com/pikachu.gif" width="200px" align="center">
+  </samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
